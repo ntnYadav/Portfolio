@@ -202,4 +202,31 @@ https://github.com/user-attachments/assets/4ffc12b6-935f-45ff-96fb-32d106d58752
 ![462582961_7976686712436774_643134717468871182_n](https://github.com/user-attachments/assets/b135b077-4e42-4aa4-933b-33f33057d4be)
 
 
+wando Application 
 
+Wando Application is your go-to engagement app for a better workplace experience. No matter what service or industry you’re in, this easy-to-use Workplace Experience app reinvents your journey at work.
+
+Many features are available to take your hassle out with an intuitive experience and stay connected:
+• Keep in touch with your office or site life with personalised news and content
+• Discover events and promotions available in your workplace
+• Share your voice with on-the-go surveys and feedback forms
+• Open & track service requests
+• Find menus from across your workplace locations
+• Order food online, pick it up or get it delivered
+• Easily find any information about on-site facilities
+• Access to all your workplace applications, like room booking, in one place
+The workplace is undergoing drastic changes to suit new ways of working. We are bringing the best technologies to help you thrive in today’s hybrid workplace and stay close to your colleagues - no matter where you are.
+
+
+
+Technologies
+Swift5.2
+Programatic UI and storyboard
+Dark mode support
+MVVM Architecture
+
+
+ScreenShot 
+<img width="1021" alt="Screenshot 2025-01-23 at 10 41 34 AM" src="https://github.com/user-attachments/assets/2a0630e8-ea3b-45b3-8132-e2d17c7bd880" />
+
+![Uploading Screenshot 2025-01-23 at 10.33.19 AM.png…]()
