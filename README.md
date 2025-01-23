@@ -1,3 +1,14 @@
+
+![IMG_0218 copy](https://github.com/user-attachments/assets/d9971ef7-f3df-4b5a-9f62-1de6f71c1cff)
+                                            
+                                            
+                                            Nitin Yadav
+                                            iOS developer 
+
+
+Overall 8 years of experience in Mobile App Development using Swift and Obj- C. Currently working with Delivery Hero as Sr. Software Engineer (iOS). Deep knowledge of MVVM-C and VIPER with reactive (Rx) and non-reactive. Sound experience of implementing SOLID principles. 
+
+
 Teachme Inc Application
 
 Teachme application (RxSwift, MVVM-C): Being built using Reactive and MVVM-C, deals with managing user financial account and sub-accounts. Funds transfer, transactions and debit card management is supported. Project follows frameworks based modular structure With all UI build programatically. CI/CD implemented using FASTLANE and Circle CI.Being able to search for the best tutor for you by comparing ratings, hourly rates, and qualifications. The best way to learn anything is to teach me. No extra costs or subscriptions! Just outcomes that are affordable. We will assist you in locating, scheduling, and maintaining communication with the ideal teacher, regardless of your interests. We'll take care of the rest, and you can devote more time to learning. Online lessons with Zoom integration. Tracking your tutor for in person lessons 
