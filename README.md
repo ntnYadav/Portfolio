@@ -220,6 +220,7 @@ The workplace is undergoing drastic changes to suit new ways of working. We are 
 
 
 Technologies
+
 Swift5.2
 Programatic UI and storyboard
 Dark mode support
